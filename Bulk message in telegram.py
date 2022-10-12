@@ -7,7 +7,7 @@ from tkinter import *
 import tkinter
 from PIL import Image, ImageTk
 from tkinter import messagebox
-import time
+
 
 
 def main():
